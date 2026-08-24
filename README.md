@@ -55,14 +55,14 @@ Menghadirkan solusi digital yang andal, mulai dari pengelolaan data, sistem serv
 
 <div align="center">
   
-  <!-- Menggunakan API metrics alternatif yang jauh lebih stabil (Profile Trophies) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DiandraFrza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <!-- GitHub Streak Stats (Menggunakan Heroku, jauh lebih stabil) -->
+  <a href="https://github.com/DiandraFrza">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiandraFrza&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2" alt="GitHub Streak" />
   </a>
 
   <br><br>
 
-  <!-- Profile Views Counter dengan desain badge premium -->
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=DiandraFrza&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 
 </div>
